@@ -1,1 +1,1 @@
-# Códigos de aplicaciones de Python en temas de Ciencias de la Tierra
+# Aplicaciones de Python en temas de Ciencias de la Tierra
